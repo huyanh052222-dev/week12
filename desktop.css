@@ -1,4 +1,4 @@
-@media screen and (min-width: 1135px) {
+@media screen and (min-width: 1199px) {
     .wrap-sec-1-2-3-4{
         position: relative;
         .section-1{
@@ -324,6 +324,15 @@
                 font-size: 24px;
                 width: 953px;
                 margin: 0 auto;
+            }
+        }
+        .sec-9-hero{
+
+            .hero-item-main{
+                font-size: 20px;
+                .box-text{
+                    padding: 20px 60px 20px 30px;
+                }
             }
         }
     }

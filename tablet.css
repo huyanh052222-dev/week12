@@ -308,15 +308,14 @@
         }
         .sec-9-hero{
             /* height: 343px; */
-            display: flex;
-            justify-content: center;
-            #cod-mobile{
-                display: none;
+            .hero{
+
             }
-            #cod-tablet{
-                display: block;
-                /* width: 95%; */
-                /* justify-content: center; */
+            .hero-item-main{
+                font-size: 18px;
+            }
+            .box-text{
+                padding: 10px 16px 10px 30px;
             }
         }
     }
